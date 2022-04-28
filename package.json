@@ -1,0 +1,19 @@
+{
+  "name": "bayc-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/providers": "^5.6.4",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.4",
+    "node-fetch": "^1.7.3",
+    "opensea-js": "^3.0.4",
+    "web3": "^1.7.0"
+  }
+}
